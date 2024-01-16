@@ -7,7 +7,6 @@ _Made by Gijs van den Beuken_
 - [Introduction](#heading-introduction)
 - [People](#people)
 - [About the Project](#heading-about-the-project)
-- [Setup for the Project](#heading-setup-for-the-project)
 - [Project Content](#heading-project-content)
   - [TeamFinder front-end](#teamfinder-front-end)
   - [TeamFinder back-end](#teamfinder-back-end)
@@ -22,17 +21,17 @@ We had the opportunity to collaborate on this project in larger groups, which ha
 
 ### Group memebers
 
-* Joost
-* Joris
-* Sjoerd
-* Jasper
-* Morris
-* Gijs
+- Joost
+- Joris
+- Sjoerd
+- Jasper
+- Morris
+- Gijs
 
 ### Stakeholders
 
-* Cas Eliëns
-* Rob van Dijck
+- Cas Eliëns
+- Rob van Dijck
 
 ## About the Project <a name="heading-about-the-project"></a>
 
@@ -59,3 +58,5 @@ Below, you'll discover all the relevant details regarding each aspect of my indi
 ### TeamFinder back-end <a name="teamfinder-back-end"></a>
 
 - [TeamFinder back-end](https://github.com/S3-IO-Dev/S3_DB_IO.git)
+
+Other relevant documents and files like the ethics & cultural differences analysis will also be present in this repository.
